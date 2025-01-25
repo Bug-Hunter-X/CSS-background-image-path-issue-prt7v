@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates an unusual issue where the `background-image` property doesn't apply correctly due to a missing or incorrect path to the image file. This problem is very common when using relative paths for the image resources in CSS.
