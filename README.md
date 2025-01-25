@@ -1,0 +1,2 @@
+# CSS Background-Image Path Issue
+This repository demonstrates a common CSS issue: the `background-image` property failing to load the image due to an incorrect path.  The `bug.css` file contains the erroneous code, while `bugSolution.css` provides the corrected version.  The problem is especially prevalent when using relative paths; understanding relative path resolution within CSS is key to avoiding this issue. 
